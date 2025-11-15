@@ -1,0 +1,23 @@
+IDEA: 2000s / frutiger aero type theme 
+    - glassmorphism
+    - colour pallete: greys, green, blue, soft tones
+    - 
+
+Layout of UI
+
+Landing page of my name + animation of some sort
+    - eiter background or based on mouse movement
+
+Scroll down or click to jump to next section where header begins and projects appear on cards
+
+Header contains standard pages
+    - home
+    - projects
+    - about 
+    - etc.
+
+Each card contains project snippet/summary + gif of project in action
+    - link to deployed page if any
+    - animation of it in action regardeless
+
+Click on any card to jump to more in depts project details + links 
